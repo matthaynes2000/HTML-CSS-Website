@@ -97,14 +97,14 @@ div {
 
 .top-cloud {
   position: absolute;
-  right: 500px;
-  top: 40px;
+  right: 35.0rem;
+  top: 20.0rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  left: 35.0rem;
+  bottom: 20.0rem;
 }
 
 .btn {
